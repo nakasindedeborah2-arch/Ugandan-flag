@@ -31,7 +31,7 @@ To run it:
 
 ## 🔗 Live Version (Code in Place)
 You can view the live version of the project here:  
-https://codeinplace.stanford.edu/cip6/share/MAX9tqLgSzcphkcnfwhyD0W
+https://codeinplace.stanford.edu/cip6/share/MAX9tqLgSzcphkcnfD0W
 
 ## ✨ Author
 **Deborah Nakasinde**  
